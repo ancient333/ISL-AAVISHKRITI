@@ -1,4 +1,4 @@
-# hack4sdg-AAVISHKRITI
+# ISL-AAVISHKRITI
 
 # CampusLens – An Integrated Accessibility System
 
